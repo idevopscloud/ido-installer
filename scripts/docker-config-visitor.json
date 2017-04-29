@@ -1,0 +1,8 @@
+{
+        "auths": {
+                "index.idevopscloud.com:5000": {
+                        "auth": "cmVhZF9vbmx5OmRbNHxfR2pdakt4OkpH",
+                        "email": "a@b"
+                }   
+        }   
+}
